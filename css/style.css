@@ -4,3 +4,10 @@ body{
 .slider img{
     filter: brightness(60%);
 }
+footer .divider{
+    border-color: #6c757d;
+}
+.icon{
+    border-radius: 50%;
+    background-color: #373636cc;
+}
