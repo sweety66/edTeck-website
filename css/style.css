@@ -5,8 +5,11 @@ body{
 .slider img{
     filter: brightness(60%);
 }
-footer .divider{
-    border-color: #6c757d;
+.heading-text{
+    font-size: 4.23vw;
+}
+.paragraph{
+    font-size: 1.17vw;
 }
 .icon{
     border-radius: 50%;
